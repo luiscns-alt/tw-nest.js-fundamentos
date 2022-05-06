@@ -3,6 +3,7 @@
 /node_modules
 
 # Logs
+.env
 package-lock.json
 yarn.lock
 logs
