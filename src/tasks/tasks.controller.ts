@@ -24,7 +24,7 @@ export class TasksController {
 
   @Get('/home')
   @Render('home')
-  root() {
+  root(): void  {
     //
   }
 
